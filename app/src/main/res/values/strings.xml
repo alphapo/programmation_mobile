@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">tp1</string>
+    <string name="title_activity_ajouter_etudiant">Ajouter un étudiant</string>
+    <string name="title_activity_accueil">Accueil</string>
+
+    <string name="ajouter_un_etudiant">Ajouter un étudiant</string>
+    <string name="lister_les_etudiants">Lister les étudiants</string>
+    <string name="name">Nom</string>
+    <string name="surname">Prénom</string>
+    <string name="sexe">Sexe</string>
+    <string name="groupe">Groupe</string>
+    <string name="birthDay">date de naissance</string>
+    <string name="mail">Mail</string>
+    <string name="redoublant">Doublant</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="title_accueil">Accueil</string>
+</resources>
